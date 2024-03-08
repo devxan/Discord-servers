@@ -1281,3 +1281,33 @@ h1.style4 span.p:nth-child(n + 2), h2.style4 span.p:nth-child(n + 2), h3.style4 
 		--padding-vertical: 1.5rem;
 	}
 }
+
+#btn-xanation:hover li a, .xanation::selection {
+color: #FCA4A4
+}
+
+/*  {
+color: #FCA4A4;
+background: black;
+} */
+
+#btn-scratch:hover li a {
+color: #F9A83A
+}
+.scratch::selection {
+color: #F9A83A;
+background: black;
+}
+
+#btn-swaggy:hover li a {
+color: #7BDFF2
+}
+.swaggy::selection {
+color: #7BDFF2;
+background: black;
+}
+
+::selection {
+color: white;
+background: black;
+}
