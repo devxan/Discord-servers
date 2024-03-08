@@ -897,7 +897,7 @@
 						events: {
 							onopen: [
 								function() { 
-									gtag('config', 'G-TN026321D1', { 'page_path': '/#scratch' });
+									// nothing
 								},
 							],
 						},
@@ -906,7 +906,7 @@
 						events: {
 							onopen: [
 								function() { 
-									gtag('config', 'G-TN026321D1', { 'page_path': '/' });
+									// nothing
 								},
 							],
 						},
